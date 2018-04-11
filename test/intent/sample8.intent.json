@@ -1,0 +1,7 @@
+{
+    "utterance": "algorithm",
+    "intent_type": "BubbleSortIntent",
+    "intent": {
+      "TimSort": "bubblesort"
+    }
+  }

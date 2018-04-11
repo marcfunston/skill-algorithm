@@ -1,0 +1,7 @@
+{
+    "utterance": "algorithm",
+    "intent_type": "ShellSortIntent",
+    "intent": {
+      "ShellSort": "shellsort"
+    }
+  }
